@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Mastering advanced Python for AI, automation, and scalable applications**
 
-- 📫 How to reach me **bijayapoudel32@hmail.com**
+- 📫 How to reach me **bijayapoudel32@gmail.com**
 
 - ⚡ Fun fact **I never thought I’d be a programmer—I used to believe it wasn’t my cup of tea. But now, I’m turning it into my cup of yummy coffee☕. With every line of code, I’m proving to myself that I can grow, adapt, and tackle any challenge that comes my way. The journey from uncertainty to confidence has been an exciting adventure, and I’m ready to take on whatever comes next with open arms and a strong belief that I can overcome anything. 💪**
 
